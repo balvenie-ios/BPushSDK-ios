@@ -1,6 +1,0 @@
-framework module BPush {
-  umbrella header "BPush.h"
-  export *
-
-  module * { export * }
-}
