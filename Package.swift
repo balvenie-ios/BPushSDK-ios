@@ -3,8 +3,8 @@
 
 import PackageDescription
 
-let version = "1.3.0"
-let checksum = "38559068a24ca194361fcd407902922091c39289b34a95d101b717cd641508ab"
+let version = "1.3.1"
+let checksum = "1501ff94aefb06cb0acf4ce0ac584dbb13abbbec0f47fc4cf72344b0fffebcb6"
 
 let package = Package(
     name: "BPushSDK-ios",
